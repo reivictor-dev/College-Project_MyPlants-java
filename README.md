@@ -44,3 +44,5 @@ PlantaSQLiteHelper.java: Define a estrutura do banco de dados SQLite, criando a 
 A arquitetura de três camadas adotada no desenvolvimento do sistema de catálogo de plantas proporciona uma estrutura organizada e escalável, com a separação clara de responsabilidades entre a interface com o usuário, a lógica de negócios e a persistência de dados. Essa estrutura permite a evolução do sistema de forma controlada e fácil de organizar, garantindo que futuras mudanças no banco de dados, na lógica de negócios ou na interface de usuário possam ser feitas sem impacto negativo no restante do código.
 
 ### App
+
+<img src"Picture1.png">
