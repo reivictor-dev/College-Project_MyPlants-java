@@ -45,4 +45,14 @@ A arquitetura de três camadas adotada no desenvolvimento do sistema de catálog
 
 ### App
 
-<img src"Picture1.png">
+#### MainActivity (Main screen - all plants)
+![Minha Imagem](Picture1.png)
+
+#### Adding a new plant
+![Minha Imagem](Picture2.png)
+
+#### Update a plant
+![Minha Imagem](Picture3.png)
+
+#### Plant Delete
+![Minha Imagem](Picture5.png)
